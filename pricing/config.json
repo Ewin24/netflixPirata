@@ -1,0 +1,163 @@
+{
+    "encabezado": {
+        "titulo": "Choose the plan that’s right for you",
+        "lista": [
+            {
+                "imagen": "<svg class='bi mt-2' width='24' height='24'><use xlink:href='#check' /></svg>",
+                "texto": "Watch all you want. Ad-free."
+            },
+            {
+                "imagen": "<svg class='bi mt-2' width='24' height='24'><use xlink:href='#check' /></svg>",
+                "texto": "Recommendations just for you."
+            },
+            {
+                "imagen": "<svg class='bi mt-2' width='24' height='24'><use xlink:href='#check' /></svg>",
+                "texto": "Change or cancel your plan anytime."
+            }
+        ]
+    },
+    "tarjetas": {
+        "lista": [
+            {
+                "titulo": "Basic",
+                "precio": "COP $16.000",
+                "boton": "Get"
+            },
+            {
+                "titulo": "Standard",
+                "precio": "COP $26.000",
+                "boton": "Get"
+            },
+            {
+                "titulo": "Standard",
+                "precio": "COP $26.000",
+                "boton": "Get"
+            }
+        ]
+    },
+    "tabla": {
+        "thead": [
+            {
+                "th": "Features"
+            },
+            {
+                "th": "Basic"
+            },
+            {
+                "th": "Standard"
+            },
+            {
+                "th": "Premium"
+            }
+        ],
+        "tbody": [
+            {
+                "descripcion": "Monthly Price",
+                "opciones": [
+                    {
+                        "contenido": "$16,900"
+                    },
+                    {
+                        "contenido": "$26,900"
+                    },
+                    {
+                        "contenido": "38,900"
+                    }
+                ]
+            },
+            {
+                "descripcion": "Video Quality",
+                "opciones": [
+                    {
+                        "contenido": "Good"
+                    },
+                    {
+                        "contenido": "Better"
+                    },
+                    {
+                        "contenido": "Best"
+                    }
+                ]
+            },
+            {
+                "descripcion": "Monthly Price",
+                "opciones": [
+                    {
+                        "contenido": "720p"
+                    },
+                    {
+                        "contenido": "1080p"
+                    },
+                    {
+                        "contenido": "4K + HDR"
+                    }
+                ]
+            },
+            {
+                "descripcion": "Watch on your TV, computer, mobilephone and tablet",
+                "opciones": [
+                    {
+                        "contenido": "<svg class='bi mt-2' width='24' height='24'><use xlink:href='#check' /></svg>"
+                    },
+                    {
+                        "contenido": "<svg class='bi mt-2' width='24' height='24'><use xlink:href='#check' /></svg>"
+                    },
+                    {
+                        "contenido": "<svg class='bi mt-2' width='24' height='24'><use xlink:href='#check' /></svg>"
+                    }
+                ]
+            }
+        ]
+    },
+    "parrafo": [
+        {
+            "contenido": "HD (720p), Full HD (1080p), Ultra HD (4K) and HDR availability subject to your internet service and device capabilities. Not all content is available in all resolutions. See our Terms of Use for more details. "
+        },
+        {
+            "contenido": "Only people who live with you may use your account. Watch on 4 different devices at the same time with Premium, 2 with Standard and 1 with Basic."
+        }
+    ],
+    "footer": {
+        "logoSrc": "../assets/brand/icons8-netflix.svg",
+        "logoAlt": "Netflix Logo",
+        "copyText": "Campuslands 2023 Bucaramanga",
+        "sections": [
+            {
+                "items": [
+                    {
+                        "link": "#",
+                        "text": "FAQ"
+                    },
+                    {
+                        "link": "#",
+                        "text": "Privacy"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "link": "#",
+                        "text": "Help Center"
+                    },
+                    {
+                        "link": "#",
+                        "text": "Cookie Preferences"
+                    }
+                ]
+            },
+            {
+                "items": [
+                    {
+                        "link": "#",
+                        "text": "Netflix Shop"
+                    },
+                    {
+                        "link": "#",
+                        "text": "Corporate Information"
+                    }
+                ]
+            }
+        ]
+    }
+}
